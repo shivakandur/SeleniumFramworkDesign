@@ -1,0 +1,3 @@
+cd C:\Users\Admin\git\Shiva\SeleniumFrameworksDesign
+mvn clean install
+ 
